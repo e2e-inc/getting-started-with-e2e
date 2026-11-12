@@ -64,7 +64,7 @@ package (`node_modules/e2e/docs` in a single-package project); a link such as
 `/reference/cli` is `docs/reference/cli.mdx`. Complete projects for Vite,
 Next.js, Astro, Expo, SwiftUI, Jetpack Compose, Kotlin Multiplatform, and
 Flutter, each with its config, scripts, and a passing suite, are in
-https://github.com/tester-army/e2e/tree/main/examples.
+https://github.com/e2e-inc/e2e/tree/main/examples.
 
 | Topic | File | Read it when |
 | --- | --- | --- |

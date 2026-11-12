@@ -4,7 +4,7 @@ The example project for the **"Getting Started with Agentic e2e"** video on the
 TesterArmy YouTube channel.
 
 It's a small Next.js todo app with an end-to-end test suite written with
-[e2e](https://github.com/tester-army/e2e). An AI agent drives the browser from
+[e2e](https://github.com/e2e-inc/e2e). An AI agent drives the browser from
 plain-English goals (`agent.act`) and checks results (`agent.assert`).
 Playwright-style `expect` assertions pin down the exact values.
 
@@ -116,6 +116,6 @@ server for your coding agent.
 
 ## Learn more
 
-- [e2e on GitHub](https://github.com/tester-army/e2e), with example projects
+- [e2e on GitHub](https://github.com/e2e-inc/e2e), with example projects
   for Vite, Next.js, Astro, Expo, SwiftUI, Flutter, and more
 - `node_modules/e2e/docs` has the full documentation for the installed version
